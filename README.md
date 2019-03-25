@@ -1,12 +1,12 @@
 
 PROJECT 2
 
-NAME:
+NAME: Milton Savage
 
-DATE OF COMPLETION:
+DATE OF COMPLETION: 3/34/2019
 
-PURPOSE OF PROJECT:
+PURPOSE OF PROJECT:	TicTacToe game
 
-OUTSIDE SOURCES / HELP:
+OUTSIDE SOURCES / HELP: None
 
-MESSAGE FOR TA GRADER:
+MESSAGE FOR TA GRADER: The board is stored as 'X', 'O', and '-' chars rather than ints, I found this made it easier to print. Starting a new game instantiates a new object. 
